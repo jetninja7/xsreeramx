@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balakrishna Sreeram
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Basics of Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 You can reach me at xsreeramx@gmail.com
 
